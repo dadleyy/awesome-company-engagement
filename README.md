@@ -7,6 +7,7 @@ Table of contents:
 * [Internal Social Networking](#internal-social-networking)
 * [Chat Applications](#chat-applications)
 * [Blog Posts](#blog-posts)
+* [Bookmarking](#bookmarking)
 
 ### Internal Social Networking [[wikipedia](https://en.wikipedia.org/wiki/Internal_communications#Social_Media)]
 
@@ -20,3 +21,7 @@ Table of contents:
 ### Blog Posts
 
 * [Benefits of Internal Social Media](http://www.apcoworldwide.com/blog/detail/apcoforum/2016/01/25/the-benefits-of-internal-social-media-engaged-employees) - January 25, 2016.
+
+### Bookmarking
+
+* [lobsters](https://github.com/jcs/lobsters) - open source link aggregation platform
