@@ -8,15 +8,15 @@ Table of contents:
 * [Chat Applications](#chat-applications)
 * [Blog Posts](#blog-posts)
 
-
 ### Internal Social Networking [[wikipedia](https://en.wikipedia.org/wiki/Internal_communications#Social_Media)]
 
-* [Yammer](https://www.yammer.com/owneriq.com/) - from wikipedia: _"social networking service used for private communication within organizations."_
+* [Yammer](https://www.yammer.com/owneriq.com/) - from wikipedia: _"social networking service used for private communication within organizations"_.
+* [eXo Platform](https://www.exoplatform.com/) - open source social collaboration software designed for enterprises.
 
 ### Chat Applications
 
-* [Hipchat](https://hipchat.com/) - Group and private chat, file sharing, and integrations
+* [Hipchat](https://hipchat.com/) - Group and private chat, file sharing, and integrations.
 
 ### Blog Posts
 
-* [Benefits of Internal Social Media](http://www.apcoworldwide.com/blog/detail/apcoforum/2016/01/25/the-benefits-of-internal-social-media-engaged-employees) - January 25, 2016
+* [Benefits of Internal Social Media](http://www.apcoworldwide.com/blog/detail/apcoforum/2016/01/25/the-benefits-of-internal-social-media-engaged-employees) - January 25, 2016.
