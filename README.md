@@ -4,12 +4,12 @@ A curated list of resources that help companies improve inter-office camaraderie
 
 Table of contents:
 
-* [Networking Applications](#networking-applications)
+* [Internal Social Networking](#internal-social-networking)
 * [Chat Applications](#chat-applications)
 * [Blog Posts](#blog-posts)
 
 
-### Networking Applications
+### Internal Social Networking [[wikipedia](https://en.wikipedia.org/wiki/Internal_communications#Social_Media)]
 
 * [Yammer](https://www.yammer.com/owneriq.com/) - from wikipedia: _"social networking service used for private communication within organizations."_
 
