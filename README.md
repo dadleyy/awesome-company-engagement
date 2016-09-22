@@ -21,7 +21,7 @@ Tag definitions:
 | `foss` | Free open source software. Easily self hosted. |
 | `pm` | Project management features like issue tracking and planning. |
 | `pt` | The platform includes features that allow users to create proposals and track their resolutions. |
-| `social` | Includes features common to social media platforms including, but not limited to: posting, photos, polls, and groups. |
+| `social` | Includes features common to social media platforms (photos, posts, groups). |
 | `wiki` | Includes document storage, content curation and knowledge base features. |
 
 
