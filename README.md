@@ -21,7 +21,7 @@ Tag definitions:
 | `cs` | These platforms are useful tools that allow co-workers to share online content with one another. |
 | `pt` | The platform includes features that allow users to create proposals and track their resolutions. |
 | `pm` | Project management features like issue tracking and planning. |
-| `foss` | Free open source software. |
+| `foss` | Free open source software. Easily self hosted. |
 
 
 | Link | Tags | Notes |
@@ -31,14 +31,14 @@ Tag definitions:
 | [Hum Hub](https://www.humhub.org/en) | `social`, `directory`, `wiki`, `paid` | |
 | [Uppercase](https://apps.google.com/marketplace/app/mffgeijiafphbcpoblabidficbilhdpb) | `directory` | |
 | [Jostle](https://www.jostle.me/) | `social`, `directory`, `calendar` | |
-| [Lobste.rs](https://github.com/jcs/lobsters) | `social`, `cs` | |
-| [Yourls](https://yourls.org/) | `cs` | |
-| [Polr](https://github.com/cydrobolt/polr) | `cs` | |
+| [Lobste.rs](https://github.com/jcs/lobsters) | `social`, `cs`, `foss` | Link aggregation - `ruby` |
+| [Yourls](https://yourls.org/) | `cs`, `foss` | Url shortening - `php` |
+| [Polr](https://github.com/cydrobolt/polr) | `cs`, `foss` | Url shortening - `php` |
 | [Confluence](https://www.atlassian.com/software/confluence) | `wiki`, `directory`, `pt` | |
 | [Media Wiki](https://www.mediawiki.org/wiki/MediaWiki) | `wiki`, `directory` | |
-| [Basecamp](https://basecamp.com/) | `pm` | |
+| [Basecamp](https://basecamp.com/) | `pm`, `directory`, `wiki` | |
 | [Jira](https://www.atlassian.com/software/jira) | `pm`, `directory` | |
-| [Loomio](https://www.loomio.org/) | `pt`, `foss` | position history tracking |
+| [Loomio](https://www.loomio.org/) | `pt`, `foss` | Includes position history tracking :rocket: |
 
 ### Perks
 
