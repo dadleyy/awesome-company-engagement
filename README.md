@@ -15,22 +15,23 @@ Tag definitions:
 
 | Tag | Definition |
 | ---- | ---- |
-| `social` | Includes features common to social media platforms including, but not limited to: posting, photos, polls, and groups. |
-| `directory` | Provides the ability for users to search for and find other members of the platform. |
-| `wiki` | Includes document storage, content curation and knowledge base features. |
 | `cs` | These platforms are useful tools that allow co-workers to share online content with one another. |
-| `pt` | The platform includes features that allow users to create proposals and track their resolutions. |
-| `pm` | Project management features like issue tracking and planning. |
+| `directory` | Provides the ability for users to search for and find other members of the platform. |
+| `events` | Allows users to create and view calendar-based events |
 | `foss` | Free open source software. Easily self hosted. |
+| `pm` | Project management features like issue tracking and planning. |
+| `pt` | The platform includes features that allow users to create proposals and track their resolutions. |
+| `social` | Includes features common to social media platforms including, but not limited to: posting, photos, polls, and groups. |
+| `wiki` | Includes document storage, content curation and knowledge base features. |
 
 
 | Link | Tags | Notes |
 | ---- | ---- | ---- |
 | [Yammer](https://www.yammer.com/owneriq.com/) | `social`, `directory` | |
-| [eXo Platform](https://www.exoplatform.com/) | `social`, `directory`, `calendar`, `wiki` | |
+| [eXo Platform](https://www.exoplatform.com/) | `social`, `directory`, `events`, `wiki` | |
 | [Hum Hub](https://www.humhub.org/en) | `social`, `directory`, `wiki`, `paid` | |
 | [Uppercase](https://apps.google.com/marketplace/app/mffgeijiafphbcpoblabidficbilhdpb) | `directory` | |
-| [Jostle](https://www.jostle.me/) | `social`, `directory`, `calendar` | |
+| [Jostle](https://www.jostle.me/) | `social`, `directory`, `events` | |
 | [Lobste.rs](https://github.com/jcs/lobsters) | `social`, `cs`, `foss` | Link aggregation - `ruby` |
 | [Yourls](https://yourls.org/) | `cs`, `foss` | Url shortening - `php` |
 | [Polr](https://github.com/cydrobolt/polr) | `cs`, `foss` | Url shortening - `php` |
@@ -39,6 +40,7 @@ Tag definitions:
 | [Basecamp](https://basecamp.com/) | `pm`, `directory`, `wiki` | |
 | [Jira](https://www.atlassian.com/software/jira) | `pm`, `directory` | |
 | [Loomio](https://www.loomio.org/) | `pt`, `foss` | Includes position history tracking :rocket: |
+| [Oxwall](https://www.oxwall.com/) | `foss`, `social`, `events` | php |
 
 ### Perks
 
