@@ -13,34 +13,34 @@ Table of contents:
 
 Tag definitions:
 
-| Tag | Definition |
+| Tag | Name | Definition |
 | ---- | ---- |
-| `cs` | These platforms are useful tools that allow co-workers to share online content with one another. |
-| `directory` | Provides the ability for users to search for and find other members of the platform. |
-| `events` | Allows users to create and view calendar-based events |
-| `foss` | Free open source software. Easily self hosted. |
-| `pm` | Project management features like issue tracking and planning. |
-| `pt` | The platform includes features that allow users to create proposals and track their resolutions. |
-| `social` | Includes features common to social media platforms (photos, posts, groups). |
-| `wiki` | Includes document storage, content curation and knowledge base features. |
+| `cs` | Content Sharing | These platforms are useful tools that allow co-workers to share online content with one another. |
+| `dir` | Employee Directory | Provides the ability for users to search for and find other members of the platform. |
+| `evt` | Events | Allows users to create and view calendar-based events |
+| `foss` | Open Source/Free | Free open source software. Easily self hosted. |
+| `pm` | Project Management | Features like issue tracking and planning. |
+| `pt` | Proposal Tracking | The platform includes features that allow users to create proposals and track their resolutions. |
+| `sm` | Social Media | Includes features common to social media platforms (photos, posts, groups). |
+| `wd` | Wiki | Includes document storage, content curation and knowledge base features. |
 
 
 | Link | Tags | Notes |
 | ---- | ---- | ---- |
-| [Yammer](https://www.yammer.com/owneriq.com/) | `social`, `directory` | |
-| [eXo Platform](https://www.exoplatform.com/) | `social`, `directory`, `events`, `wiki` | |
-| [Hum Hub](https://www.humhub.org/en) | `social`, `directory`, `wiki`, `paid` | |
-| [Uppercase](https://apps.google.com/marketplace/app/mffgeijiafphbcpoblabidficbilhdpb) | `directory` | |
-| [Jostle](https://www.jostle.me/) | `social`, `directory`, `events` | |
-| [Lobste.rs](https://github.com/jcs/lobsters) | `social`, `cs`, `foss` | Link aggregation - `ruby` |
+| [Yammer](https://www.yammer.com/owneriq.com/) | `sm`, `dir` | |
+| [eXo Platform](https://www.exoplatform.com/) | `sm`, `dir`, `evt`, `wd` | |
+| [Hum Hub](https://www.humhub.org/en) | `sm`, `dir`, `wd`, `paid` | |
+| [Uppercase](https://apps.google.com/marketplace/app/mffgeijiafphbcpoblabidficbilhdpb) | `dir` | |
+| [Jostle](https://www.jostle.me/) | `sm`, `dir`, `evt` | |
+| [Lobste.rs](https://github.com/jcs/lobsters) | `sm`, `cs`, `foss` | Link aggregation - `ruby` |
 | [Yourls](https://yourls.org/) | `cs`, `foss` | Url shortening - `php` |
 | [Polr](https://github.com/cydrobolt/polr) | `cs`, `foss` | Url shortening - `php` |
-| [Confluence](https://www.atlassian.com/software/confluence) | `wiki`, `directory`, `pt` | |
-| [Media Wiki](https://www.mediawiki.org/wiki/MediaWiki) | `wiki`, `directory` | |
-| [Basecamp](https://basecamp.com/) | `pm`, `directory`, `wiki` | |
-| [Jira](https://www.atlassian.com/software/jira) | `pm`, `directory` | |
+| [Confluence](https://www.atlassian.com/software/confluence) | `wd`, `dir`, `pt` | |
+| [Media Wiki](https://www.mediawiki.org/wiki/MediaWiki) | `wd`, `dir` | |
+| [Basecamp](https://basecamp.com/) | `pm`, `dir`, `wd` | |
+| [Jira](https://www.atlassian.com/software/jira) | `pm`, `dir` | |
 | [Loomio](https://www.loomio.org/) | `pt`, `foss` | Includes position history tracking :rocket: |
-| [Oxwall](https://www.oxwall.com/) | `foss`, `social`, `events` | php |
+| [Oxwall](https://www.oxwall.com/) | `foss`, `sm`, `evt` | php |
 
 ### Perks
 
