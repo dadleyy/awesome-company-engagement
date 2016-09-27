@@ -14,7 +14,7 @@ Table of contents:
 Tag definitions:
 
 | Tag | Name | Definition |
-| ---- | ---- |
+| ---- | ---- | ---- |
 | `cs` | Content Sharing | These platforms are useful tools that allow co-workers to share online content with one another. |
 | `dir` | Employee Directory | Provides the ability for users to search for and find other members of the platform. |
 | `evt` | Events | Allows users to create and view calendar-based events |
